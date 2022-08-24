@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "Name": "Real Madrid",
+        "content": "Most successful in european stage.",
+        "UCL":[
+            {
+                "titles":"14 UCL"
+
+            }
+        ]
+    },
+    {
+        "id":2,
+        "Name": "AC MILAN",
+        "content": "2nd Most successful in european stage.",
+        "UCL":[
+            {
+                "titles":"7 UCL"
+
+            }
+        ]
+        
+    },
+    {
+        "id":3,
+        "Name": "BAYERN",
+        "content": "3rd Most successful in european stage.",
+        "UCL":[
+            {
+                "titles":"6 UCL"
+
+            }
+        ]
+        
+    },
+    {
+        "id":4,
+        "Name": "Liverpool",
+        "content": "3rd Most successful in european stage.",
+        "UCL":[
+            {
+                "titles":"6 UCL"
+
+            }
+        ]
+    }   
+]
